@@ -491,13 +491,13 @@ border-radius: 0% 0% 0% 0% / 0% 0% 0% 0%;
     z-index: 2;
 }
 .hood__detail-22 {
-	width: 97.5px;
+	width: 89.5px;
     height: 9px;
     background: rgb(109, 78, 38);
     position: absolute;
     top: 277px;
     left: 76.3%;
-    transform: translateX(-50%) skew(26deg, 0deg) rotate(-6deg);
+    transform: translateX(-50%) skew(-26deg, 0deg) rotate(-6deg);
     border-radius: 10% 17% 13% 14% / 10% 14% 14% 15%;
     z-index: 2;
 }
